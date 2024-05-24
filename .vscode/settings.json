@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "U1Z_Rolling_Ball.sln"
+    "dotnet.defaultSolution": "U1Z_Rolling_Ball_pot.sln"
 }

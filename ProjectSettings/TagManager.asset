@@ -7,6 +7,9 @@ TagManager:
   - Obstacle
   - Bounds
   - Bouncy
+  - Wall
+  - Finish1
+  - Finish2
   layers:
   - Default
   - TransparentFX
